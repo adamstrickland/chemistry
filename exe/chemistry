@@ -1,0 +1,4 @@
+#! /usr/bin/env ruby
+
+require "chemistry"
+Chemistry::CLI.start ARGV
